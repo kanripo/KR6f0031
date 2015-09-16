@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:22.267603
+#+DATE: 2015-08-30 20:01:23.544619
 #+TITLE: 得無垢女經
 #+PROPERTY: CBETA_ID T12n0339
 #+PROPERTY: ID KR6f0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 339
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0031_T_000-0097c>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0031_T_001-0097c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.339[Nos.310(33),338]¶
-
- 得無垢女經(一名論義辯才法門)¶
+No. 339 [Nos. 310(33), 338]¶
+得無垢女經(一名論義辯才法門)¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 
@@ -142,7 +141,7 @@ No.339[Nos.310(33),338]¶
 
 二月八日，弗沙星日意樂¶
 出遊，以求吉相。父母即聽，從婆羅門有五百¶
-人。齎持蘇酪、華草、符𤬪相隨而出，為欲解¶
+人。齎持蘇酪、華草、符[土*瓦]相隨而出，為欲解¶
 奏彼婆羅門。見諸菩薩、大聲聞已，即住念曰：¶
 「我今見此吉相好人。」
 
